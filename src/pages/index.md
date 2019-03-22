@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: IT'S GOOD COFFEE
+title: IT'S GOOD COFFEE YUMMMM
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
